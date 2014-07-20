@@ -1,0 +1,9 @@
+COMESANO 1.0
+
+Subir recetas y elaborar menus semanales sanos con indicación de calorias, nutrientes, etc
+
+* Bases de datos online con información nutricional de alimentos:
+	- http://www.bedca.net/bdpub/index.php  (Base de Datos Española de Composición de Alimentos - Ministeria de ciencia y investigación)
+	- http://www.eurofir.org/?page_id=96   (Bases de datos de composición de alimentos nacionales de otros paises)
+	- http://www.fao.org/infoods/infoods/tablas-y-bases-de-datos/europa/es/
+	- http://ndb.nal.usda.gov/ndb/search/list (Departamento de agricultura de EEUU)
